@@ -1,3 +1,3 @@
 # Chal-Hotel
 Repositório teste
-Site: shimmering-macaron-acad54.netlify.app
+Site: https://shimmering-macaron-acad54.netlify.app
